@@ -1,3 +1,8 @@
+<head>
+    <link rel="Shortcut Icon" type="image/png" 
+      href="{{ "./Images/favicon.png"  | absolute_url }}">
+</head>
+
 # Baekjoon-Study
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnachiketa3299.github.io%2FBaekjoon-Study%2F&count_bg=%23000000&title_bg=%236452D9&icon=micro-dot-blog.svg&icon_color=%23FFF46E&title=%EB%B0%A9%EB%AC%B8&edge_flat=true)](https://hits.seeyoufarm.com)
