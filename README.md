@@ -1,8 +1,9 @@
 # KU-Baekjoon-Study
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnachiketa3299.github.io%2FBaekjoon-Study%2F&count_bg=%23000000&title_bg=%236452D9&icon=micro-dot-blog.svg&icon_color=%23FFF46E&title=%EB%B0%A9%EB%AC%B8&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## 🔔 기본 정보
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnachiketa3299.github.io%2FBaekjoon-Study%2F&count_bg=%23000000&title_bg=%236452D9&icon=micro-dot-blog.svg&icon_color=%23FFF46E&title=%EB%B0%A9%EB%AC%B8&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - 고려대학교 백준 스터디 기록 및 관리용 페이지입니다.  
 - 스터디가 진행되는 **60일**동안 동안 이 사이트에 접근하실 수 있습니다.  
@@ -12,6 +13,7 @@
 
 - 간단한 [마크다운 문법](https://heropy.blog/2017/09/30/markdown/)에 대해 공부해 주세요.
 - 기본적인 Git/GitHub 사용법에 대해 공부해 주세요.
+- [솔브닥(solved.ac)](https://solved.ac) 을 백준 프로필과 연동해 주신 후, 프로필 링크를 주시면 감사할 것 같아요.
 
 ### 🔗 관련 링크 모음
 
@@ -22,12 +24,16 @@
 
 ### 👥 스터디 참여자
 
+#### RUZEN
 
-|닉네임|전공|사용언어|
-|:---:|:---:||:---:|
-|[RUZEN](https://www.acmicpc.net/user/nachiketa3299)|컴퓨터학과|`C++`|
-|[민재]()|공과대학|`Python`|
+- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nachiketa3299)](https://solved.ac/nachiketa3299)
+- `C++`
 
+
+#### 민재
+
+- 
 
 ---
 
