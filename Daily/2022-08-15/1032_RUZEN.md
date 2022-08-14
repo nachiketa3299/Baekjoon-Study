@@ -63,8 +63,14 @@ int main (void) {
 
 `str_arr` 에 입력받은 문자열이 저장된다.
 
+<style>
+    .heatMap th {
+        background: blue;
+    }
+</style>
 
-|<span style="color:blue"`c`</span>|<span style="color:blue"`o`</span>|<span style="color:blue"`n`</span>|<span style="color:blue"`f`</span>|<span style="color:blue"`i`</span>|<span style="color:blue"`g`</span>|<span style="color:blue"`?`</span>|<span style="color:blue"`?`</span>|<span style="color:blue"`?`</span>|<span style="color:blue"`?`</span>|
+
+|`c`|`o`|`n`|`f`|`i`|`g`|`?`|`?`|`?`|`?`|
 |---|---|---|---|---|---|---|---|---|---|
 |`c`|`o`|`n`|`f`|`i`|`g`|`.`|`s`|`y`|`s`|
 |`c`|`o`|`n`|`f`|`i`|`g`|`?`|`i`|`n`|`f`|
