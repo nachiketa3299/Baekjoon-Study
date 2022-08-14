@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 # 풀이 시간
 
 - `[2022-08-14T13:55, 2022-08-14T14:23]`
@@ -165,3 +166,16 @@ int main (void) {
 # 더 알아볼 것
 
 - `string`, `vector`, `array` 등 STL의 사용법에 대한 정리. (정확히 말하면 `string`은 STL이 아니라고 한다.)
+
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
