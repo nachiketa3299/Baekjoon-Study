@@ -75,7 +75,6 @@ Row별로 검사하도록 반복문을 구성했다. (열 번호를 `c_i`라고 
 
 ```mermaid
 graph TD
-%% Nodes
 S["Start<br><code>c_i</code>별로 <code>str_arr</code>의 모든 문자열에 대해 비교"]
 0{"해당 열의 문자가 <br>모두 같은가?"}
 1{"모든 문자가 <code>.</code>인가?"}
@@ -83,7 +82,6 @@ S["Start<br><code>c_i</code>별로 <code>str_arr</code>의 모든 문자열에 �
 3["<code>qwery[c_i] = '.'</code>"]
 4["<code>qwery[c_i] = '*'</code><br><i>(해당 문자 대입)</i>"]
 
-%% Links
 S ---> 0
 0 --->|"Yes"| 1
 0 --->|"No"| 2
