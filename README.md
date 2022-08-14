@@ -86,8 +86,7 @@
 - [Discord Sever](https://discord.gg/FzhGZhU6)
 - [솔브닥(solved.ac)](https://solved.ac)
 - [BAEKJOON Online Judge](https://www.acmicpc.net)
-- [에브리타임 홍보 게시물](https://everytime.kr/370507/v/263175892)
-- [고파스 홍보 게시물](https://www.koreapas.com/bbs/view.php?id=study&page=1&sn1=&divpage=6&sn=off&ss=on&sc=on&no=43705)
+- [효과적인 코드 리뷰를 위한 리뷰어의 자세/kay.gw/KakaoTech](https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/)
 
 ### 👥 스터디 참여자 소개
 
@@ -100,10 +99,10 @@
 > 부족하지만 열심히 스터디를 이끌어나가보겠습니다. 잘 부탁드립니다!
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nachiketa3299)](https://solved.ac/nachiketa3299)  
-![주사용 언어](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![개발 환경 운영체제](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![에디터](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![에디터 - 2](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![언어 - CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OS - Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![에디터 - Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nachiketa3299&theme=dark)
 
@@ -112,25 +111,32 @@
 > 잘 부탁드립니다!
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lake041)](https://solved.ac/lake041)  
-![주사용 언어](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![개발 환경 운영체제](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![에디터](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![OS - Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lake041&theme=dark)
 
-#### 3. **nullorm** (스마트보안학부, 수요일 담당)
+#### 3. **lime12** (컴퓨터학과, 수요일 담당)
 
-> 컴퓨터를 주로 다루는 학과 소속이긴 하지만 아직 1학기밖에 겪지 않아 실력은 그닥입니다...  
-> 열심히 배우고 공부하도록 하겠습니다
+> 잘 부탁드립니다.
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhy2301)](https://solve.ac/jhy2301)  
-![주사용 언어](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![개발 환경 운영체제](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![에디터](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lime12)](https://solved.ac/lime12)  
+![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![OS -우분투](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jhy2301&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lime12&theme=dark)
 
-#### 4. HSK (예정)
+#### 4. **Erados** (전기전자공학부, 목요일 담당)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=erados)](https://solved.ac/erados)  
+![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![언어 - Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![OS - Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=erados&theme=dark)
 
 #### 5. (구인 중)
 
