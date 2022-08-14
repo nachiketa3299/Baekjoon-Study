@@ -73,21 +73,21 @@ int main (void) {
 
 Row별로 검사하도록 반복문을 구성했다. (열 번호를 `c_i`라고 이름붙였다.)  
 
-```mermaid
+<div class="mermaid">
 graph TD
-S["Start<br><code>c_i</code>별로 <code>str_arr</code>의 모든 문자열에 대해 비교"]
-0{"해당 열의 문자가 <br>모두 같은가?"}
-1{"모든 문자가 <code>.</code>인가?"}
-2["<code>qwery[c_i] = '?'</code>"]
-3["<code>qwery[c_i] = '.'</code>"]
-4["<code>qwery[c_i] = '*'</code><br><i>(해당 문자 대입)</i>"]
+S[&quote;Start<br><code>c_i</code>별로 <code>str_arr</code>의 모든 문자열에 대해 비교&quote;]
+0{&quote;해당 열의 문자가 <br>모두 같은가?&quote;}
+1{&quote;모든 문자가 <code>.</code>인가?&quote;}
+2[&quote;<code>qwery[c_i] = ?</code>&quote;]
+3[&quote;<code>qwery[c_i] = .</code>&quote;]
+4[&quote;<code>qwery[c_i] = *</code><br><i>(해당 문자 대입)</i>&quote;]
 
-S ---> 0
-0 --->|"Yes"| 1
-0 --->|"No"| 2
-1 --->|"Yes"| 3
-1 --->|"No"| 4
-```
+S ---&gt; 0
+0 ---&gt;|Yes| 1
+0 ---&gt;|No| 2
+1 ---&gt;|Yes| 3
+1 ---&gt;|No| 4
+</div>
 
 # 질문 사항
 
