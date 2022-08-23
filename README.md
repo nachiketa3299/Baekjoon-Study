@@ -9,7 +9,7 @@
 
 ---
 
-- [🔔 스터디 기본 운영 정보](./info.md)
+- [(필독!)🔔 스터디 운영 정보](./info.md)
 
 ---
 
@@ -25,13 +25,15 @@
 4. [2022-08-18](./Daily/Week%2001/2022-08-18/2022-08-18.md)
 5. [2022-08-19](./Daily/Week%2001/2022-08-19/2022-08-19.md)
 
-### Week 2
+### Week 2 (ONGOING)
 
-6. [2022-08-22](./Daily/2022-08-22/2022-08-22.md)
-7. [2022-08-23](./Daily/2022-08-23/2022-08-23.md)
-8. [2022-08-24](./Daily/2022-08-24/2022-08-24.md)
-9. [2022-08-25](./Daily/2022-08-25/2022-08-25.md)
-10. [2022-08-26](./Daily/2022-08-26/2022-08-26.md)
+괄호 안의 이름은 선정자를 표기한 것입니다.
+
+6. [2022-08-22](./Daily/2022-08-22/2022-08-22.md) (RUZEN)
+7. [2022-08-23](./Daily/2022-08-23/2022-08-23.md) (mj)
+8. [2022-08-24](./Daily/2022-08-24/2022-08-24.md) (lime12)
+9. [2022-08-25](./Daily/2022-08-25/2022-08-25.md) (Erados)
+10. [2022-08-26](./Daily/2022-08-26/2022-08-26.md) (KL)
 
 <!--
 ## 이 페이지를 만드는 데에 도움이 되었던 사이트
@@ -102,3 +104,12 @@
 ![OS - Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kyulee1338&theme=dark)
+
+#### 6. **닉네임 미정** (과 미정, ? 담당)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyulee1338)](https://solved.ac/kyulee1338)  
+![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+
