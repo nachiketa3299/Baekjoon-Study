@@ -1,8 +1,0 @@
-# Conversion
-# https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/
-
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
