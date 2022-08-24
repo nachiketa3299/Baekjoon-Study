@@ -48,7 +48,7 @@
 - 솔브닥 배지를 클릭하면, 솔브닥 페이지로 이동할 수 있습니다.  
 - 프로필을 수정하시고 싶으시면, 직접 수정하시거나 스터디장에게 요청을 보내면 될 것 같습니다.
 
-#### 1. **RUZEN** (컴퓨터학과, 월요일 담당)
+#### 1. **RUZEN** (컴퓨터학과)
 
 > 스터디 장입니다. 나이 많습니다. ~~(물어보지 말아주세요)~~ 취업 해야합니다.  
 > 부족하지만 열심히 스터디를 이끌어나가보겠습니다. 잘 부탁드립니다!
@@ -61,7 +61,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nachiketa3299&theme=dark)
 
-#### 2. **mj** (산업경영공학부, 화요일 담당)
+#### 2. **mj** (산업경영공학부)
 
 > 잘 부탁드립니다!
 
@@ -72,7 +72,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lake041&theme=dark)
 
-#### 3. **lime12** (컴퓨터학과, 수요일 담당)
+#### 3. **lime12** (컴퓨터학과)
 
 > 잘 부탁드립니다.
 
@@ -83,7 +83,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lime12&theme=dark)
 
-#### 4. **Erados** (전기전자공학부, 목요일 담당)
+#### 4. **Erados** (전기전자공학부)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=erados)](https://solved.ac/erados)  
 ![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -93,7 +93,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=erados&theme=dark)
 
-#### 5. **KL** (경영학과-소프트웨어벤처, 금요일 담당)
+#### 5. **KL** (경영학과-소프트웨어벤처)
 
 > 본 전공은 경영학과이긴 한데 개발 공부 재밌어서 프론트엔드 개발 계속 공부중인 학생입니다! 요즘 부트캠프 같은데 지원하려고 해도 코테가 필수인거같아서 코테 공부하려고 하는데 혼자서 하려니까 자꾸 미루게 되어서 스터디 지원하게 되었습니다! 잘부탁드립니다
 
@@ -105,11 +105,15 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kyulee1338&theme=dark)
 
-#### 6. **닉네임 미정** (과 미정, ? 담당)
+#### 6. **dohee** (디자인조형학부)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyulee1338)](https://solved.ac/kyulee1338)  
+> 초봉 **4500**!
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890)  
 ![언어 - Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![언어 - CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![에디터 - VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![OS - Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![OS - Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=helloking1234567890&theme=dark)
