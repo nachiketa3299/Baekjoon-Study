@@ -2,7 +2,6 @@
 cdate: "2022-08-30T15:33:17"
 vdate: 
   - "2022-08-30T15:33:17" # Created
-
 isFail: true
 ddate: 2022-08-30
 boj_link: https://www.acmicpc.net/problem/7569
