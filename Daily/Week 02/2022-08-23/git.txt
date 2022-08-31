@@ -1,0 +1,39 @@
+# 웹에서 fork
+git clone ________
+# cmd 위치, 로컬에 해당 원격 저장소 저장
+
+git checkout -b branch_name(main)
+git remote add origin(별칭) ________
+# 원본을 원격 저장소에 추가
+git branch
+# 브랜치 확인
+
+git add .
+git commit -m 'message'
+git push origin 'branch_name'
+#코드 수정 및 파일 추가
+# 웹에서 Create pull Request
+
+git remote -v
+# origin만 존재
+git remote add upstream ________
+git remote -v
+# upstream이 제대로 추가 되었는지 확인
+
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin master
+# git pull까지 자동으로 완료
+
+git checkout -b new_branch
+git add .
+git commit -m 'test'
+git push origin test
+# 수정 후 push
+# 웹에서 Create pull Request
+
+git hub 
+원격 (origin, upstream)
+로컬 (main, branch)
+# "git push 원격 로컬"하면 git hub에 자동으로 반영
